@@ -1,0 +1,20 @@
+Başlangıç Tarih ve Zaman: Tue May  2 10:24:54 2023
+Parent ID: 997
+Child ID: 9975helloworld
+helloworld.c
+log.txt
+multishell
+multishell.c
+not.txt
+shelllog-20230502_102141.txt
+shelllog-20230502_102225.txt
+singleshell
+singleshell.c
+
+Parent ID: 997
+Child ID: 9976/home/kali/shell
+
+Parent ID: 997
+Parent ID: 997
+Parent ID: 997
+Çıkış Tarih ve Zaman: Tue May  2 10:25:14 2023
